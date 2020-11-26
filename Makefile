@@ -3,4 +3,4 @@ all:
 	cp static/* docs
 
 clean:
-	rm -r build
+	rm -r docs
