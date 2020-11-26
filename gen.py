@@ -54,7 +54,8 @@ class Page:
 files = glob.glob("./pages/*")
 pages = [Page(file) for file in files]
 
-build_dir = "build/"
+# because github is stupid we have to put our public stuff in the "docs" folder
+build_dir = "docs/"
 for page in pages:
     if not page.is_link:
         build_subdir = "" if page.name == "home" else f"{page.name}/"

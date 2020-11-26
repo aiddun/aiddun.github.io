@@ -1,6 +1,6 @@
 all: 
 	python gen.py
-	cp static/* build
+	cp static/* docs
 
 clean:
 	rm -r build
