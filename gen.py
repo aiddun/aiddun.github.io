@@ -4,6 +4,8 @@ import glob
 import markdown2
 import autopep8
 
+SITE_NAME = "Aidan Dunlap"
+
 template = ""
 with open("./template.html", "r") as t:
     template = t.read()
@@ -52,7 +54,8 @@ class Page:
 
         links_html = "\n".join(links)
 
-        html = page_template.replace("{title}", self.name).replace(
+        title = self.name if self.name != "home" else SITE_NAME
+        html = page_template.replace("{title}", title).replace(
             "{content}", self.md_html).replace("{links}", links_html)
 
         # don't worry about html style as cloudflare will minify it for us
