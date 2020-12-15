@@ -1,6 +1,7 @@
 all: 
 	python gen.py
-	cp static/* docs
+	cp CNAME docs
+	cp -r static docs
 
 clean:
 	rm -r docs
