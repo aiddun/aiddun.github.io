@@ -1,4 +1,2 @@
 #### About me:
-I'm a sophomore CS major at UT Austin in the Turing Scholars honors
-program. I went to Bronx Science for high school. I'm really
-interested in fullstack dev, efficient systems, robotics, the intersection of computer science with other diciplines, and snow cones.
+I'm a sophomore CS major at UT Austin in the Turing Scholars honors program. I'm currently on a half-gap semester. I went to Bronx Science for high school. I'm interested in making cool, innovative stuff, product development, robotics, snow cones, and a bunch more.

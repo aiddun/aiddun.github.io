@@ -1,6 +1,3 @@
 #### tiny town 
 
-\[insert blog post here\]
-
-
-you can find it at [https://tt.dunlap.ai](https://tt.dunlap.ai)
+Tiny Town v2, a complete rewrite designed for public use is almost done!!
