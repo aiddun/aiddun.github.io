@@ -1,6 +1,6 @@
 all: 
-	python gen.py
-	cp CNAME docs
+	python3 gen.py
+	# cp CNAME docs
 	cp -r static docs
 
 clean:
