@@ -6,7 +6,6 @@ My main goal with this project was to get better at planning, designing, and exe
 
 This was a great exercise in getting better with the relationship with product vision and actual user feedback. I originally thought that I had designed the most intuitive user interface I could for this problem and was quick to defend my decisions come critique, but eventually realized that I was wrong and one of my assumptions was faulty (namely that I had raised the knowledge ceiling slightly too high, falsely thinking my design would be intuitive to everyone including people who didn't know how gas worked, but was wrong). I think if you spend a lot of time thinking about a UI it eventually becomes very intuitive *to you*, and you always need to be alert to and try to work around that bias, which sometimes can be really hard.  Overall, learned a ton!
 
-Stack:
-Frontend: React, Tailwind, Next, Vercel
-
-Backend: Express, Twilio, Firebase, Vercel Serverless Funcs, Replit
+Stack:  
+Frontend: React, Tailwind, Next, Vercel  
+Backend: Express, Twilio, Firebase, Vercel Serverless Funcs, Replit  
