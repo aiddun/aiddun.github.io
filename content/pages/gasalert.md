@@ -1,6 +1,6 @@
-https://gasalert.app
+[https://gasalert.app](https://gasalert.app)
 
-I made a small site to text you when etherium gas prices (fees for transactions on the etherium blockchain), a problem I had, as well as to better understand price trends. 
+I made a small site to text you when ethereum gas prices (fees for transactions on the ethereum blockchain), a problem I had, as well as later on, to better easily understand gas price trends. 
 
 My main goal with this project was to get better at planning, designing, and executing very high quality, highly intuitive user interfaces for a complex task. While I am proud of what I built, I also believe this could be so much better and even more intuitive and I plan on releasing a better version in the future. 
 
