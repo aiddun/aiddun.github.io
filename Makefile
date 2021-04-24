@@ -5,3 +5,6 @@ all:
 
 clean:
 	rm -r docs
+
+git:	all
+	git add .
