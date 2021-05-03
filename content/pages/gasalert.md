@@ -8,5 +8,5 @@ This was a great exercise in getting better with the relationship with product v
 
 Stack:  
 Frontend: React, Tailwind, Next, Vercel  
-Backend: Express, Twilio, Firebase, Vercel Serverless Funcs, Replit 
+Backend: Express, Twilio, Firebase, Vercel Serverless Funcs, Replit   
 Apis: [poloniex.com](https://docs.poloniex.com), [gasnow.org](https://taichi.network/#gasnow)
